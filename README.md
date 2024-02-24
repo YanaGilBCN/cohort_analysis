@@ -8,7 +8,7 @@ Cohort analysis involves breaking down a dataset into related groups, or cohorts
 
 ## Data Source
 
-The analysis is based on the "sales.csv" dataset, which contains information about user purchases, including product details and currency used. Specifically, it contains the following variables:
+The analysis is based on the "retention_rate.csv" dataset, which contains information about user purchases, including product details and currency used. Specifically, it contains the following variables:
 
 - cohort_start_date
 - order_date
