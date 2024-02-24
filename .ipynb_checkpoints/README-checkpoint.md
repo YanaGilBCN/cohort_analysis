@@ -10,14 +10,14 @@ Cohort analysis involves breaking down a dataset into related groups, or cohorts
 
 The analysis is based on the "sales.csv" dataset, which contains information about user purchases, including product details and currency used. Specifically, it contains the following variables:
 
--- cohort_start_date
--- order_date
--- cohort_size  (redundant, to be dropped)
--- cohort_size_at_order_date
--- plan
--- currency
--- cohort_age_months
--- retention_rate (redundant, to be dropped)
+- cohort_start_date
+- order_date
+- cohort_size  (redundant, to be dropped)
+- cohort_size_at_order_date
+- plan
+- currency
+- cohort_age_months
+- retention_rate (redundant, to be dropped)
 
 
 ## Key Questions Addressed
